@@ -3,7 +3,8 @@ __pycache__/
 *$py.class
 *.so
 .Python
-.idea
+.idea/
+idea/
 build/
 develop-eggs/
 dist/
